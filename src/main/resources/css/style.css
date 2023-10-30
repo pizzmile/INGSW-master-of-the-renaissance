@@ -1,0 +1,551 @@
+#player-summary {
+    -fx-background-color: blue;
+}
+
+#player-board-navbar {
+    -fx-background-color: yellow;
+}
+
+#player-board {
+    /*-fx-background-color: red;*/
+    -fx-background-image: url('../img/playerboard.jpg');
+    -fx-background-size: cover;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#markets {
+    -fx-background-color: green;
+}
+
+#card-1-1 {
+    -fx-background-image: url('../img/cards/back/dev_back_1.png');
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#card-1-2 {
+    -fx-background-image: url('../img/cards/back/dev_back_2.png');
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#card-1-3 {
+    -fx-background-image: url('../img/cards/back/dev_back_3.png');
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#card-1-4 {
+    -fx-background-image: url('../img/cards/back/dev_back_4.png');
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#card-2-1 {
+    -fx-background-image: url('../img/cards/back/dev_back_5.png');
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#card-2-2 {
+    -fx-background-image: url('../img/cards/back/dev_back_6.png');
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#card-2-3 {
+    -fx-background-image: url('../img/cards/back/dev_back_7.png');
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#card-2-4 {
+    -fx-background-image: url('../img/cards/back/dev_back_8.png');
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#card-3-1 {
+    -fx-background-image: url('../img/cards/back/dev_back_9.png');
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#card-3-2 {
+    -fx-background-image: url('../img/cards/back/dev_back_10.png');
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#card-3-3 {
+    -fx-background-image: url('../img/cards/back/dev_back_11.png');
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#card-3-4 {
+    -fx-background-image: url('../img/cards/back/dev_back_12.png');
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#dev-slot-1-1 {
+    -fx-background-image: url('../img/cards/back/lead_back.png');
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#dev-slot-1-2 {
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#dev-slot-1-3 {
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#dev-slot-2-1 {
+    -fx-background-image: url('../img/cards/back/lead_back.png');
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#dev-slot-2-2 {
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#dev-slot-2-3 {
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#dev-slot-3-1 {
+    -fx-background-image: url('../img/cards/back/lead_back.png');
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#dev-slot-3-2 {
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#dev-slot-3-3 {
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#leader-1 {
+    -fx-background-image: url('../img/cards/front/leader-card-7.png');
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+#leader-2 {
+    -fx-background-image: url('../img/cards/front/leader-card-7.png');
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+#leader-3 {
+    -fx-background-image: url('../img/cards/back/lead_back.png');
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+#leader-4 {
+    -fx-background-image: url('../img/cards/back/lead_back.png');
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#mm-1-1 {
+    -fx-background-image: url('../img/ico/red_marble.png');
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#mm-2-1 {
+    -fx-background-image: url('../img/ico/purple_marble.png');
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#mm-3-1 {
+    -fx-background-image: url('../img/ico/yellow_marble.png');
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#mm-1-2 {
+    -fx-background-image: url('../img/ico/gray_marble.png');
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#mm-2-2 {
+    -fx-background-image: url('../img/ico/red_marble.png');
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#mm-3-2 {
+    -fx-background-image: url('../img/ico/yellow_marble.png');
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#mm-1-3 {
+    -fx-background-image: url('../img/ico/blue_marble.png');
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#mm-2-3 {
+    -fx-background-image: url('../img/ico/white_marble.png');
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#mm-3-3 {
+    -fx-background-image: url('../img/ico/white_marble.png');
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#mm-1-4 {
+    -fx-background-image: url('../img/ico/purple_marble.png');
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#mm-2-4 {
+    -fx-background-image: url('../img/ico/purple_marble.png');
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#mm-3-4 {
+    -fx-background-image: url('../img/ico/yellow_marble.png');
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#not-for-sale {
+    -fx-background-image: url('../img/ico/white_marble.png');
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#coin-icon{
+    -fx-background-image: url('../img/ico/coin.png');
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#servant-icon{
+    -fx-background-image: url('../img/ico/servant.png');
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#shield-icon{
+    -fx-background-image: url('../img/ico/shield.png');
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#stone-icon{
+    -fx-background-image: url('../img/ico/stone.png');
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#depot-1-1 {
+    -fx-background-size: contain;
+    -fx-background-position: center center;
+    -fx-background-repeat: no-repeat;
+}
+
+#depot-2-1 {
+    -fx-background-size: contain;
+    -fx-background-position: center center;
+    -fx-background-repeat: no-repeat;
+}
+
+#depot-2-2 {
+    -fx-background-size: contain;
+    -fx-background-position: center center;
+    -fx-background-repeat: no-repeat;
+}
+
+#depot-3-1 {
+    -fx-background-size: contain;
+    -fx-background-position: center center;
+    -fx-background-repeat: no-repeat;
+}
+
+#depot-3-2 {
+    -fx-background-size: contain;
+    -fx-background-position: center center;
+    -fx-background-repeat: no-repeat;
+}
+
+#depot-3-3 {
+    -fx-background-size: contain;
+    -fx-background-position: center center;
+    -fx-background-repeat: no-repeat;
+}
+
+#card-zoom {
+    -fx-background-image: url('../img/cards/back/lead_back.png');
+    -fx-background-size: contain;
+    -fx-background-position: center center;
+    -fx-background-repeat: no-repeat;
+}
+
+#mm-r-1, #mm-r-2, #mm-r-3 {
+    -fx-background-image: url('../img/ico/arrow_left.png');
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+}
+
+#mm-c-1, #mm-c-2, #mm-c-3, #mm-c-4 {
+    -fx-background-image: url('../img/ico/arrow_up.png');
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+}
+
+#fc-0{
+    -fx-background-image: url('../img/ico/red_cross.png');
+    -fx-border-color: darkred;
+    -fx-background-color: #a8a2a2;
+    -fx-background-size: contain;
+    -fx-background-position: center center;
+    -fx-background-repeat: no-repeat;
+}
+
+.faith-cell#current {
+    -fx-background-image: url('../img/ico/red_cross.png');
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+.faith-cell {
+    -fx-border-color: darkred;
+    -fx-background-color: #f1e8ce;
+}
+
+AnchorPane, GridPane {
+    -fx-border-radius: 5;
+}
+
+#main {
+    -fx-background-image: url('../img/playerboard_bg.png');
+    -fx-background-size: stretch;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#production-button:hover {
+	-fx-background-color: red;
+}
+
+
+.glow-button {
+    -fx-border-color: transparent;
+    -fx-background-color: lightgray;
+}
+.glow-button:pressed {
+    -fx-background-color: lightgray;
+}
+.glow-button:hover {
+    -fx-border-color: red;
+    -fx-background-radius: 5;
+}
+
+.choose-leader {
+    -fx-background-image: url('../img/cards/back/lead_back.png');
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#development-zoom {
+    -fx-background-image: url('../img/cards/back/lead_back.png');
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#leader-zoom {
+    -fx-background-image: url('../img/cards/back/lead_back.png');
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+.production {
+    -fx-background-image: url('../img/cards/back/lead_back.png');
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#generic-production {
+    -fx-background-image: url('../img/generic.png');
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#generic-input-1{
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#generic-input-2{
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#generic-output{
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#generic-leader-1{
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#generic-leader-2{
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#top-leader-1{
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#top-leader-2{
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#leader-1-depot-1{
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#leader-1-depot-2{
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#leader-2-depot-1{
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#leader-2-depot-2{
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#resource-toconvert-1{
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#resource-toconvert-2{
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#favor-1{
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#favor-2{
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#favor-3{
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#card-market-pane{
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
