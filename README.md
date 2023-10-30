@@ -1,7 +1,5 @@
 # Final Examination - Software Engineering Project - A.Y. 2020/2021
 
-# Prova finale - Progetto di Ingegneria del Software - A.A. 2020/2021
-
 Implementation of the board game 'Masters of the Renaissance' for PC.
 The main goal of this project is the replica
 
